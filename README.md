@@ -1,1 +1,3 @@
 # ReduxCounter
+
+Redux practice
